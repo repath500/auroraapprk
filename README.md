@@ -4,7 +4,7 @@
 
 [English](./README.md) | [中文](./docs/zh/README.md)
 
-A ChatGPT web client that supports multiple users, multiple database connections for persistent data storage, supports i18n. Provides Docker images and quick deployment scripts.
+Using ChatGPT UI but testing our experimental models/api's - OrionAi
 
 https://user-images.githubusercontent.com/46235412/227156264-ca17ab17-999b-414f-ab06-3f75b5235bfe.mp4
 
